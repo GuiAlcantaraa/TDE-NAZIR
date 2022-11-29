@@ -39,17 +39,17 @@ export function CreateAdModal() {
                 <form onSubmit={handleCreateAd} className='mt-8 flex flex-col gap-4'>
                     <div className='flex flex-col gap-2'>
                         <label htmlFor="cupom">Código do cupom *</label>
-                        <Input required id='cupom' name='cupom' placeholder='Informe o código do seu cupom?' />
+                        <Input required id='cupom' name='cupom' placeholder='Informe o código do seu cupom' />
                     </div>
 
                     <div className='flex flex-col gap-2'>
                         <label htmlFor="cpf">Seu cpf *</label>
-                        <Input required id='cpf' name='cpf' placeholder='Informe seu cpf?' />
+                        <Input required id='cpf' name='cpf' placeholder='Informe seu cpf' />
                     </div>
 
                     <div className='flex flex-col gap-2'>
                         <label htmlFor="email">Seu e-mail *</label>
-                        <Input required id='email' name='email' placeholder='Informe seu e-mail?' />
+                        <Input required id='email' name='email' placeholder='Informe seu e-mail' />
                     </div>
 
                     <div className='flex flex-col gap-2'>

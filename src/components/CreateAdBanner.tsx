@@ -7,7 +7,7 @@ export function CreateAdBanner() {
             <div className='bg-[#2A2634] px-8 py-6 flex justify-between items-center'>
                 <div>
                     <strong className='text-2xl text-white font-black block'>Não tem cupom cadastrado ?</strong>
-                    <span className='text-zinc-400'>Cadastre seu cupom para concorrer a varios premios</span>
+                    <span className='text-zinc-400'>Cadastre seu cupom para concorrer a varios premios legais</span>
 
                     <button className='mt-2 py-1 px-2 bg-red-700 hover:bg-red-900 text-white rounded flex items-center gap-2'>regras</button>
                 </div>
