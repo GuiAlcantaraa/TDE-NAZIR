@@ -1,7 +1,7 @@
 import './styles/main.css'
 import { GameBanner } from './components/GameBanner'
 import * as Dialog from '@radix-ui/react-dialog'
-import logo from './assets/logo-nlw-esports.svg'
+import logo from './assets/Logo-nlw-esports.svg'
 import { CreateAdBanner } from './components/CreateAdBanner'
 import { CreateAdModal } from './components/CreateAdModal'
 
